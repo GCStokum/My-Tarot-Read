@@ -1,5 +1,6 @@
 # My-Tarot-Read
 
-Yup, Read some stuff.
+Yup, some stuff.
 
 Rider-Waite-Smith
+IF can find official open source or post TM/© version
